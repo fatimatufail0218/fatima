@@ -1,0 +1,16 @@
+{
+  "name": "Fatima Tufail | Full Stack Developer",
+  "short_name": "Fatima Tufail",
+  "description": "Full Stack Developer building responsive websites and web applications with React, Next.js, TypeScript, and MongoDB. Focused on clean UI and practical functionality.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
